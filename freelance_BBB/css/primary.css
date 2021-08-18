@@ -1,0 +1,134 @@
+.btn:focus {
+  box-shadow: 0 0 0 2px #e8eff9; }
+
+.btn-primary, .manage-users-tab.selected,
+.btn-primary:visited,
+.btn-primary i,
+.manage-users-tab.selected i {
+  background-color: #474DDC !important;
+  border-color: #474DDC !important;
+  color: white !important; }
+
+.btn-primary:active, .manage-users-tab.selected:active,
+.btn-primary:active:focus,
+.btn-primary:active:hover,
+.btn-primary:hover,
+.manage-users-tab.selected:hover,
+.btn-primary:hover i,
+.manage-users-tab.selected:hover i {
+  background-color: #78B0ED !important;
+  border-color: #78B0ED !important;
+  color: white !important; }
+
+.btn-primary:focus, .manage-users-tab.selected:focus {
+  background-color: #78B0ED !important;
+  border-color: #78B0ED !important;
+  color: white !important;
+  box-shadow: 0 0 0 2px #e8eff9 !important; }
+
+.custom-checkbox .custom-control-input:checked ~ .custom-control-label::before {
+  background-color: #474DDC !important;
+  border-color: #474DDC !important;
+  color: white !important; }
+
+a {
+  color: #474DDC !important; }
+
+.oauth-signin {
+  color: white !important; }
+  .oauth-signin:hover * {
+    color: white !important; }
+
+.btn-outline-primary {
+  border-color: #474DDC !important;
+  color: #474DDC !important; }
+  .btn-outline-primary:hover {
+    background: #474DDC !important;
+    color: white !important; }
+  .btn-outline-primary:focus {
+    box-shadow: 0 0 0 2px #e8eff9 !important; }
+
+
+
+
+
+
+
+.text-primary {
+  color: #474DDC !important; }
+
+.bg-primary {
+  background-color: #474DDC !important;
+  color: white !important; }
+
+.btn-danger {
+  color: white !important; }
+
+#clear-search:hover {
+  color: #0CC8BE !important; }
+
+.pagination .page-item.active a {
+  color: white !important;
+  background-color: #474DDC !important; }
+
+.pagination .page-item a {
+  color: #474DDC !important;
+  border-color: #474DDC !important;
+  white-space: nowrap; }
+
+.pagination .page-item a:hover {
+  background-color: #e8eff9 !important; }
+
+.pagination .page-item a:focus {
+  box-shadow: 0 0 3px #474DDC !important; }
+
+.primary-regular {
+  background-color: #474DDC !important;
+  border-color: #474DDC !important;
+  color: white !important; }
+
+.primary-lighten {
+  background-color: #e8eff9 !important;
+  border-color: #e8eff9 !important;
+  color: #474DDC !important; }
+
+.primary-darken {
+  background-color: #78B0ED !important;
+  border-color: #78B0ED !important;
+  color: white !important; }
+
+.custom-switch-input:checked ~ .custom-switch-indicator {
+  background-color: #474DDC !important;
+  border-color: #78B0ED !important; }
+
+.custom-switch-input:focus ~ .custom-switch-indicator {
+  box-shadow: 0 0 0 2px #e8eff9;
+  border-color: #78B0ED !important; }
+
+.custom-control-label::before {
+  border-color: #c80c80 !important; }
+
+.room-block.current {
+  box-shadow: 0 0 10px #e8eff9; }
+
+.btn-secondary {
+  color: #474DDC; }
+  .btn-secondary i {
+    color: #474DDC; }
+
+.app-background{
+  background-color: #F0F2F7;
+  opacity: 1;
+  top: 0px;
+  left: 0px;
+ 
+}
+.sessions{
+  background-color: #F0F2F7;
+  opacity: 1;
+  top: 0px;
+  left: 0px;
+}
+
+
+

@@ -1,0 +1,173 @@
+.app{
+    background-color: #F0F2F7;
+    opacity: 1;
+    top: 0px;
+    left: 0px;
+   
+  }
+  .sessions{
+    background-color: #F0F2F7;
+    opacity: 1;
+    top: 0px;
+    left: 0px;
+  }
+  body{
+    background-color: #F0F2F7;
+    opacity: 1;
+    top: 0px;
+    left: 0px;
+  }
+  .header_img{
+    width: 30px;
+    height: 30px ;
+    border-radius: 100%;
+
+}
+.logo{
+ height: 60px;
+    width: 90px;
+    margin-top: -7px;
+    margin-left: -35px;
+}
+.subtitle{
+    text-align: center;
+    letter-spacing: 0px;
+    color: #231F20;
+    opacity: 1;
+    font-weight: bold;
+    font-size: 30px;
+    margin-right: 215px;
+    margin-top: 25px;
+}
+#search-input {
+    padding-left:26px;
+    margin-top: 25px;
+    border: none;
+    border-radius: 5px;
+    width: 215px;
+    margin-left: 350px;
+}
+#search-input::placeholder{
+    padding-left: 10px;
+}
+.input-group {
+    position: relative;
+}
+
+.input-group:before {
+
+    content:'';
+    display: block;
+    width: 14px;
+    height: 14px;
+    background-image: url(http://getbootstrap.com/2.3.2/assets/img/glyphicons-halflings.png);
+    background-position: -48px 0;
+    position: absolute;
+    top:36px;
+    left:358px;
+    opacity: .5;
+    z-index: 1000;
+    
+}
+.date{
+    margin-left: 35px;
+    width: 70px;
+    font-size: 10px;
+    background-color: #554D89;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 6px;
+    height: 25px;
+    padding-top: -200px;
+}
+.duree{
+    margin-left: 65px;
+    width: 50px;
+    font-size: 10px;
+    background-color: #554D89;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 6px;
+    height: 25px;
+    padding-top: -200px;
+}
+
+.frame{
+    margin-right: -10px;
+    margin-top: -85px;
+  
+}
+.frame2{
+    margin-right: -10px;
+    margin-top: -20px;
+}
+.cours{
+    width: 80px;
+    font-size: 10px;
+    background-color: #64C882;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 3px;
+    height: 25px;
+    padding-top: -200px;
+}
+.img1{
+    height: 130px;
+    width: 210px;
+    padding-left: 25px;
+    padding-top: 5px;
+}
+
+.pagination{
+    margin-left: 480px;
+
+}
+
+
+
+
+/* Pagination links */
+.pagination a {
+    color: black;
+    float: left;
+    padding: 2px 8px;
+    text-decoration: none;
+    transition: background-color .3s;
+    margin: 5px;
+  }
+  
+  /* Style the active/current link */
+  .pagination a.active {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  
+  /* Add a grey background color on mouse-over */
+  .pagination a:hover:not(.active) {background-color: #ddd;}
+.fleche{
+    
+    background-color: white;
+    color: black;
+   
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
